@@ -1,0 +1,15 @@
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.exe
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.deps.json
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.runtimeconfig.json
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.runtimeconfig.dev.json
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.dll
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\bin\Release\netcoreapp2.1\win-x64\WebApi.pdb
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.csprojAssemblyReference.cache
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.RazorAssemblyInfo.cache
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.RazorAssemblyInfo.cs
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.AssemblyInfoInputs.cache
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.AssemblyInfo.cs
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.dll
+C:\Users\ricardo.souto\source\repos\WebApi\WebApi\obj\Release\netcoreapp2.1\win-x64\WebApi.pdb
